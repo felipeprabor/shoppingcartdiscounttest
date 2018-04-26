@@ -13,3 +13,6 @@
 /TestShoppingCartDiscount.Domain/obj/Debug/netcoreapp2.0/TestShoppingCartDiscount.Domain.csprojResolveAssemblyReference.cache
 /TestShoppingCartDiscount.Domain/obj/Debug/netcoreapp2.0/TestShoppingCartDiscount.Domain.csproj.FileListAbsolute.txt
 /TestShoppingCartDiscount.Domain/obj/Debug/netcoreapp2.0/TestShoppingCartDiscount.Domain.csproj.CopyComplete
+/TestShoppingCartDiscount.Framework/TestShoppingCartDiscount.Framework.csproj.user
+/TestShoppingCartDiscount.UnitTests/TestShoppingCartDiscount.UnitTests.csproj.user
+/TestShoppingCartDiscount.Domain/TestShoppingCartDiscount.Domain.csproj.user
