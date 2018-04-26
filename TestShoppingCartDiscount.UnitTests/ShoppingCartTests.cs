@@ -37,7 +37,7 @@ namespace TestShoppingCartDiscount.UnitTests
         }
 
         [TestMethod]
-        public void AddThreeProductsToCartNoDiscountApplied()
+        public void Three_products_no_discount()
         {
             BuildInitialScenario();
             
@@ -49,7 +49,7 @@ namespace TestShoppingCartDiscount.UnitTests
         }
 
         [TestMethod]
-        public void Should_apply_discount_product_A_and_B()
+        public void Three_products_should_apply_discount_product_A_and_B()
         {
             BuildInitialScenario();
             

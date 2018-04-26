@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj/Debug
+*/**/obj/Release
+/TestShoppingCartDiscount.Framework/TestShoppingCartDiscount.Framework.csproj.user
+/TestShoppingCartDiscount.UnitTests/TestShoppingCartDiscount.UnitTests.csproj.user
+/TestShoppingCartDiscount.Domain/TestShoppingCartDiscount.Domain.csproj.user
+/TestShoppingCartDiscount.UnitTests/obj/TestShoppingCartDiscount.UnitTests.csproj.nuget.g.targets
+/TestShoppingCartDiscount.UnitTests/obj/TestShoppingCartDiscount.UnitTests.csproj.nuget.g.props
+/TestShoppingCartDiscount.UnitTests/obj/TestShoppingCartDiscount.UnitTests.csproj.nuget.cache
+/TestShoppingCartDiscount.UnitTests/obj/project.assets.json
+/TestShoppingCartDiscount.Framework/obj/TestShoppingCartDiscount.Framework.csproj.nuget.g.targets
+/TestShoppingCartDiscount.Framework/obj/TestShoppingCartDiscount.Framework.csproj.nuget.g.props
+/TestShoppingCartDiscount.Framework/obj/TestShoppingCartDiscount.Framework.csproj.nuget.cache
+/TestShoppingCartDiscount.Framework/obj/project.assets.json
+/TestShoppingCartDiscount.Domain/obj/TestShoppingCartDiscount.Domain.csproj.nuget.g.targets
+/TestShoppingCartDiscount.Domain/obj/TestShoppingCartDiscount.Domain.csproj.nuget.g.props
+/TestShoppingCartDiscount.Domain/obj/TestShoppingCartDiscount.Domain.csproj.nuget.cache
+/TestShoppingCartDiscount.Domain/obj/project.assets.json

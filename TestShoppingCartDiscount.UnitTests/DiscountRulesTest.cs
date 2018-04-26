@@ -95,13 +95,23 @@ namespace TestShoppingCartDiscount.UnitTests
         }
 
         [TestMethod]
-        public void DiscountOf10Percent()
+        public void DiscountOf10Percent_should_apply()
         {
             decimal unitPrice = 20;
             int quantity = 1;
             var rules = DiscountRulesEnumeration.FromEnum(DiscountRulesEnumeration.DiscountRuleEnum.DiscountOf10Percent);
             Assert.AreEqual("10% off", DiscountRulesEnumeration.DiscountOf10Percent.DisplayName);
             Assert.AreEqual(18, rules.DiscountRule.CalculateDiscount(unitPrice, quantity));
+        }
+
+        [TestMethod]
+        public void DiscountOf20Percent_should_apply()
+        {
+            decimal unitPrice = 20;
+            int quantity = 1;
+            var rules = DiscountRulesEnumeration.FromEnum(DiscountRulesEnumeration.DiscountRuleEnum.DiscountOf20Percent);
+            Assert.AreEqual("10% off", DiscountRulesEnumeration.DiscountOf10Percent.DisplayName);
+            Assert.AreEqual(16, rules.DiscountRule.CalculateDiscount(unitPrice, quantity));
         }
     }
 }
