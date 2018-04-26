@@ -1,9 +1,8 @@
-C:\Users\borgesf\Documents\Visual Studio 2017\Projects\TestShoppingCartDiscount\TestShoppingCartDiscount.Framework\bin\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.deps.json
-C:\Users\borgesf\Documents\Visual Studio 2017\Projects\TestShoppingCartDiscount\TestShoppingCartDiscount.Framework\bin\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.dll
-C:\Users\borgesf\Documents\Visual Studio 2017\Projects\TestShoppingCartDiscount\TestShoppingCartDiscount.Framework\bin\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.pdb
-C:\Users\borgesf\Documents\Visual Studio 2017\Projects\TestShoppingCartDiscount\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.csprojResolveAssemblyReference.cache
-C:\Users\borgesf\Documents\Visual Studio 2017\Projects\TestShoppingCartDiscount\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.csproj.CoreCompileInputs.cache
-C:\Users\borgesf\Documents\Visual Studio 2017\Projects\TestShoppingCartDiscount\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.AssemblyInfoInputs.cache
-C:\Users\borgesf\Documents\Visual Studio 2017\Projects\TestShoppingCartDiscount\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.AssemblyInfo.cs
-C:\Users\borgesf\Documents\Visual Studio 2017\Projects\TestShoppingCartDiscount\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.dll
-C:\Users\borgesf\Documents\Visual Studio 2017\Projects\TestShoppingCartDiscount\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.pdb
+C:\Users\borgesf\Source\Repos\shoppingcartdiscounttest\TestShoppingCartDiscount.Framework\bin\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.deps.json
+C:\Users\borgesf\Source\Repos\shoppingcartdiscounttest\TestShoppingCartDiscount.Framework\bin\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.dll
+C:\Users\borgesf\Source\Repos\shoppingcartdiscounttest\TestShoppingCartDiscount.Framework\bin\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.pdb
+C:\Users\borgesf\Source\Repos\shoppingcartdiscounttest\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.csproj.CoreCompileInputs.cache
+C:\Users\borgesf\Source\Repos\shoppingcartdiscounttest\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.AssemblyInfoInputs.cache
+C:\Users\borgesf\Source\Repos\shoppingcartdiscounttest\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.AssemblyInfo.cs
+C:\Users\borgesf\Source\Repos\shoppingcartdiscounttest\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.dll
+C:\Users\borgesf\Source\Repos\shoppingcartdiscounttest\TestShoppingCartDiscount.Framework\obj\Debug\netcoreapp2.0\TestShoppingCartDiscount.Framework.pdb
