@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/TestShoppingCartDiscount/v15/Server/sqlite3/db.lock
+/.vs
 */**/bin/Debug
 */**/bin/Release
 */**/obj/Debug
